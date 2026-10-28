@@ -1,0 +1,10 @@
+{
+  "id": "tempo-diary-sync",
+  "name": "Tempo 日记同步",
+  "version": "0.4.0",
+  "minAppVersion": "1.6.0",
+  "description": "手动同步 Tempo 当天任务到日记，并让 Pulse 番茄热力图读取日记 tomato 字段。",
+  "author": "xiaohan1129",
+  "isDesktopOnly": false,
+  "authorUrl": "https://github.com/xiaohan1129"
+}
